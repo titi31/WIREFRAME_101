@@ -1,0 +1,82 @@
+#img{
+	width: 300px;
+	height: 200px;
+	display: flex;
+	flex-direction: column;
+}
+#ligne{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+#meslien{
+	display: flex;
+	flex-direction: row;
+	justify-content:  flex-start;
+	
+
+
+}
+a{
+	color:white;
+}
+
+#logo{
+	display: flex;
+	
+	width: 600px;
+	height: 600px;
+	justify-content: center;
+	align-items: center;
+	
+	float:  center;
+
+}
+body{
+	background: black;
+}
+h1,h2{
+	color: white;
+	display: flex;
+	height: 30px;
+	
+	justify-content: center;
+	
+	
+}
+#center{
+	
+	
+	display: flex;
+	flex-direction: column;
+	
+	justify-content: center;
+	align-items: center;
+	align-content: flex-end;
+}
+p{
+	color: white;
+}
+#foot{
+	display: flex;
+	flex-direction: row;
+	align-items:  center;
+	justify-content: space-around;
+
+}
+#partenaire{
+	display: flex;
+	
+	justify-content: flex-end;
+
+}
+#info{
+	
+	display: flex;
+
+	align-content: flex-end;
+	width: 1200px;
+	justify-content: center;
+}
+
+
