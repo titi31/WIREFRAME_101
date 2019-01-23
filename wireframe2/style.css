@@ -1,0 +1,251 @@
+@import "compass/css3";
+.nav-link{
+	display: inline;
+}
+a{
+	color: black;
+}
+
+#logo{
+	width: 350px;
+}
+#croix{
+	
+	height: 600px;
+	width: 100%;
+	border: 1px solid black;
+	
+}
+
+
+#lobi{
+	height: 60vh;
+	display: flex;
+	flex-direction: column;
+
+
+
+}
+
+h1{
+	font-size: 60px;
+}
+
+/*tton{
+	float: right;
+
+	
+}*/
+.buton:before{ content: "\2716"; }
+#boutons{
+
+	display: flex;
+	flex-direction: column;
+	float: right;
+	align-items: center;
+	margin-top: -270px;
+	
+	
+}
+#tout{
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	flex-flow:row wrap;
+
+
+}
+#boutons{
+	width: 40px;
+
+}
+#cro{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+#mars{
+	width: 150px;
+	height: 150px;
+}
+#lactee{
+	width: 150px;
+	height: 150px;
+}
+#bigbang{
+	width: 150px;
+	height: 150px;
+}
+#line{
+	display: flex;
+	margin-top:30px;
+	justify-content: space-around;
+}
+#planete,#voix,#bang{
+
+	font-weight: 100%;
+	display: flex;
+	flex-direction: column;
+
+}
+.titre{
+	display: flex;
+	justify-content: center;
+	width: 150px;
+	
+	margin-top: 10px;
+}
+#service{
+	background: gray;
+	padding-top: 30px;
+	
+}
+.read{
+	width: 150px;
+	border-radius:5px;
+	display: flex;
+	
+	margin-top: 20px;
+	justify-content: center;
+
+}
+#bmars{
+	display: flex;
+	margin-top: 45px;
+}
+#univers{
+	width: 500px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	margin-left: 60px;
+	
+}
+#about{
+	display: flex;
+	flex-direction: row;
+	
+	align-items: center;
+	
+}
+#paragraphe{
+	display: flex;
+	flex-direction: column;
+	
+}
+#cont{
+	height: 500px;
+	display: flex;
+	
+	align-content:  center;
+	justify-content: center;
+}
+#carte{
+	width: 500px;
+	height:300px;
+	display: flex;
+	flex-direction: column;
+}
+#contact{
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+
+
+}
+#coordonnee{
+	width: 500px;
+	height: 300px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+
+}
+#contact2{
+	height: 400px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: gray;
+}
+#question{
+	height: 600px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	
+}
+#send{
+	width: 70px;
+	display: flex;
+	margin-left: 430px;
+
+}
+
+#entree,#entrer{
+	width: 500px;
+	
+}
+textarea{
+	width: 500px;
+	height: 200px;
+}
+#q{
+	width: 500px;
+	height: 500px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-content: center;
+	
+}
+#foot{
+	height: 200px;
+	background-color: gray;
+	display: flex;
+	flex-direction: row;
+	align-items:  center;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+}
+.carre{
+	width: 20px;
+	height:20px;
+	
+	background: white;
+}
+#social{
+	height:80px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	
+}
+
+#so{
+	display: flex;
+	flex-direction: row;
+}
+.blanc{
+	width: 10px;
+	height: 40px;
+}
+#mesc{
+	display: flex;
+	flex-direction: row;
+}
+#ss{
+	font-size: 13px;
+	text-align: center;
+}
+#e{
+	height: 300px;
+	width: 400px;
+}
