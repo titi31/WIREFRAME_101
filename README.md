@@ -1,2 +1,2 @@
 # WIREFRAME_101
-lien: einstein.surge.sh
+lien: univers.surge.sh
