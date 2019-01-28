@@ -1,0 +1,109 @@
+#logo{
+	width: 200px;
+	height: 200px;
+}
+#terre{
+	width: 50px;
+	height:50px;
+	display: flex;
+	margin-left: 20px;
+	align-items: center;
+	
+	
+}
+
+#block{
+	display: flex;
+	flex-direction: column;
+}
+#vide{
+	height: 50px;
+}
+#article{
+	display: flex;
+	flex-direction: row;
+	
+	height: 800px;
+	
+
+}
+#contimg{
+	
+	width: 1300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+#chien{
+	display: flex; 
+	align-items: center;
+	width:1200px;
+	height: 700px;
+}
+#images{
+	
+	
+	float:right;
+	display: flex;
+	flex-direction: column;
+	margin-top: -700px;
+	
+}
+.image{
+	width:110px;
+	height:110px;
+	display: flex;
+	
+}
+.espaces{
+	height:200px;
+
+}
+#e{
+	height:100px;
+}
+.titre{
+	display: flex;
+	justify-content: center;
+}
+.recent{
+	display: flex;
+
+	/*flex-direction: column;*/
+	justify-content:space-between;
+
+}
+#articles{
+	width: 550px;
+	height: 600px;
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+#precedent{
+
+	height: 900px;
+	
+	display: flex;
+	flex-direction: column;
+	align-items:  center;
+	
+}
+.pop{
+	display: flex;
+	flex-direction: row;
+	margin-top: 50px;
+
+}
+.img{
+	width: 50px;
+	height: 50px;
+}
+#populaire{
+	display: flex;
+	flex-direction: column;
+	margin-left: 300px;
+
+}
